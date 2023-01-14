@@ -38,5 +38,11 @@ vision of its founders, has been established as a conglomerate of Bal Bharati in
  Along the way, dynamic leaders and dedicated members have added new dimensions. The socio-cultural milieu added textures and hues to the initial plans, though the ideology and USP have remained its 
 bedrock. Spanning seven decades, the enduring quality of Bal Bharati Institutions continues through time, the school elegantly demonstrating how it still is a force to reckon with today!</P>
 <IMG SRC="BBPSLOGO.jpg" ALT="BBPS LOGO" WIDTH="100%">
+<H1>Links to Other Web Pages</H1>
+<P><A HREF = "CPWP1.html">Web Page 1</A><BR>
+<A HREF = "CPWP3.html">Web Page 3</A><BR>
+<A HREF = "CPWP4.html">Web Page 4</A></P>
+</body>
+</html>
 
 

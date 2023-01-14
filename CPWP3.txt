@@ -24,5 +24,11 @@ The Child Education Society promotes schools that recognize that parents are the
 As far as the members of the teaching staff are concerned, I believe that effective teachers create opportunities for collaboration, problem-solving, and application of classroom learning to real-life situations; you should design instruction to integrate a variety of innovative technological tools and resources to enhance learning; Collaborate with colleagues to share and discuss exemplary practices, interpret student performance data and design assessments that promote twenty-first-century skills.
 Let's pledge to work together to take our school to further heights of excellence. I believe that 'when we dream together, it is the beginning of a reality'.<BR>
 <B>L.V.Sehgal<BR>
-PRINCIPAL</B>
+PRINCIPAL</B><BR>
 <IMG SRC="PRINCIPALLVS.png" ALT="Principal L.V. Sehgal">
+<H1>Links to Other Web Pages</H1>
+<P><A HREF = "CPWP1.html">Web Page 1</A><BR>
+<A HREF = "CPWP2.html">Web Page 2</A><BR>
+<A HREF = "CPWP4.html">Web Page 4</A></P>
+</body>
+</html>

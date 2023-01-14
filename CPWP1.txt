@@ -3,7 +3,6 @@
 <head>
 <title>BBPS GRHM - About</title>
 <style>
-body{bgcolor:yellow}
 H1{text-align:center}
 H2{text-align:center;color:red}
 P{font-family:"Comic Sans MS"}
@@ -23,4 +22,10 @@ to the holistic growth of each individual. The availability of all modern facili
 <P>Our institution's success is constantly from our ability to consistently identify and respond to the changing demands across the dynamic education sector. We evidence this by the prestigious seals of
  excellence provided to us over the past many years. Our success lies within our students as well, as they continue to enhance our reputation and form an active impression of the global demands. Our
  very committed parent body also upholds our commonly shared ideals and aspirations as we create a challenging and enriching educational experience for our students.</P>
-<IMG SRC="BBPSGRH.jpg" ALT="BBPS, GRHM" WIDTH="100%">
+<IMG SRC="BBPSGRH.jfif" ALT="BBPS, GRHM" WIDTH="100%">
+<H1>Links to Other Web Pages</H1>
+<P><A HREF = "CPWP2.html">Web Page 2</A><BR>
+<A HREF = "CPWP3.html">Web Page 3</A><BR>
+<A HREF = "CPWP4.html">Web Page 4</A></P>
+</body>
+</html>
